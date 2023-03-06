@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "name": "Stephen Nader DDS",
+      "id": "CSJPE04"
+    },
+    {
+      "name": "Olga Graham Jr.",
+      "id": "xJxSbA4"
+    },
+    {
+      "name": "Rebecca Homenick",
+      "id": "_7n3my7"
+    },
+    {
+      "name": "Dr. Howard Dicki",
+      "id": "3szw7J5"
+    }
+  ],
+  "albums": [
+    {
+      "userId": "1",
+      "title": "Incredible Metal Shoes",
+      "id": 13
+    },
+    {
+      "userId": "CSJPE04",
+      "title": "Generic Wooden Tuna",
+      "id": 15
+    },
+    {
+      "userId": "3szw7J5",
+      "title": "Electronic Rubber Pizza",
+      "id": 16
+    },
+    {
+      "userId": "1",
+      "title": "Unbranded Plastic Salad",
+      "id": 17
+    },
+    {
+      "userId": "CSJPE04",
+      "title": "Intelligent Fresh Table",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70984",
+      "id": 1
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=95792",
+      "id": 5
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13141",
+      "id": 6
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=9372",
+      "id": 7
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78259",
+      "id": 8
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12580",
+      "id": 9
+    }
+  ]
+}
